@@ -88,10 +88,38 @@
     margin-left: 611px;
     position: relative;
     bottom: 565px;
+    border-radius: 10px;
 }
 
 .img_p{
     position: relative;
     margin-top: 460px;
     right: 150px;
+}
+
+._text{
+    font-size: 58px;
+    color: black;
+    font-weight: 700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+.Layouts{
+    width: 1108;
+    height: 318px;
+    margin-top: 90px;
+}
+
+.mini_page{
+    width: 350px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.content_x{
+    width: 525px;
+    height: 381px;
+    margin-top: 100px;
 }
